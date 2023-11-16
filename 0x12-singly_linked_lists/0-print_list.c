@@ -8,7 +8,7 @@
  * @list: name of the list
  * Return: the number of nodes.
  */
-size_t listNumber(const list_t *list)
+size_t print_list(const list_t *list)
 {
 	int count = 0;
 
