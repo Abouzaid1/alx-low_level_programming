@@ -6,12 +6,11 @@
 #include <string.h>
 
 /**
- * struct listint_s - singly linked list
- * @n: integer
- * @nex: points to the next node
- * 
- * Description: singly linked list node structure
- * for Helberton project
+* struct listint_s - singly linked list
+* @n: integer
+* @next: points to the next node
+* Description: singly linked list node structure
+* for Helberton project
 */
 
 typedef struct listint_s
